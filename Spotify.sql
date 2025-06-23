@@ -1,5 +1,5 @@
-create database spoo;
-use spoo;
+create database spotify;
+use spotify;
 
 CREATE TABLE spotify (
     artist VARCHAR(255),
